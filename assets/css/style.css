@@ -894,6 +894,12 @@ section {
   position: relative;
 }
 
+/* CSS to style menu items with toppings */
+.menu-item-with-toppings {
+
+    padding: 10px; /* Add some padding for spacing */
+}
+
 .menu .menu-content::after {
   content: "......................................................................" "...................................................................." "....................................................................";
   position: absolute;
